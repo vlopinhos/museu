@@ -29,6 +29,11 @@ body {
     padding-left: 6%;
 }
 
+.center {
+    display: flex;
+    justify-content: center;
+}
+
 .botao {
     text-align: center;
     
