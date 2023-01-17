@@ -32,7 +32,7 @@ body {
 .center {
     display: flex;
     justify-content: center;
-    flex-direction: columnc;
+    flex-direction: column;
 }
 
 .botao {
