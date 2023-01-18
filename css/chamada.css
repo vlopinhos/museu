@@ -32,6 +32,11 @@
     width: 100%;
 }
 
+.preto_exemplos {
+    color: black;
+    border-color: black;
+}
+
 @media screen and (min-width: 768px) {
     .chamada__texto {
         max-width: 600px;
